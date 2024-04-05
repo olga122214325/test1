@@ -1,0 +1,3 @@
+print("bye 1")
+print("bye 2")
+print("bye 3")
